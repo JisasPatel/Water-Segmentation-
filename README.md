@@ -257,17 +257,3 @@ If you use this work, please cite:
 
 Pull requests are welcome!
 If you find issues, open an issue with screenshots and logs.
-
----
-
-If you'd like, I can also generate:
-
-### ✔ a **GitHub project description**
-
-### ✔ repository tags (SEO optimized)
-
-### ✔ a short README "badge header"
-
-### ✔ a full documentation site using MkDocs
-
-Just tell me **“Generate advanced README”** or **“Generate docs site”**.
