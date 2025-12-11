@@ -66,7 +66,8 @@ This hybrid deep-learning + signal-processing approach improves **spatial cohere
 
 ### 🔷 **LKF-SegNet Overview**
 
-*(Insert your image here in GitHub)*
+![Uploading LKF_SegNet_Architecture_Flowchart.png…]()
+
 
 ```
 ![LKF-SegNet Architecture](images/lkf_segnet_architecture.png)
