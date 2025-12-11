@@ -1,13 +1,3 @@
-Below is a **professional, clean, well-structured `README.md`** for your GitHub repository.
-It includes:
-✅ Project summary
-✅ Architecture diagrams (placeholders)
-✅ Features
-✅ Dataset description
-✅ Training + inference instructions
-✅ Results section (including descriptions of your plots)
-✅ Citation + license sections
-
 You can copy–paste directly into **README.md**.
 
 ---
