@@ -1,5 +1,3 @@
-You can copy–paste directly into **README.md**.
-
 ---
 
 # 🚀 **Dual-Stage Kalman Framework for Water-Body Segmentation**
