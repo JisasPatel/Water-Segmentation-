@@ -251,14 +251,6 @@ If you use this work, please cite:
   year={2025}
 }
 ```
-
----
-
-## 📄 **License**
-
-MIT License.
-Feel free to use, modify, and distribute.
-
 ---
 
 ## 🤝 **Contributions**
